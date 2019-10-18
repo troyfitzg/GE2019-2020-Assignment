@@ -12,7 +12,10 @@ For my assignment , I decided to create an infinite runner game that uses audio 
 
 
 The game will use procedural generation to create the enviroment for the player to move along. 
+
 The audio will react with things like obstacles and the overall environment, changing the color and shape.
+
+The player will control a character that moves automatically forward, the player must move from left to right along lanes avoiding obstacles to gain a high score. As the player progresses further the characters speed will increase making the game more difficult.
 
 
 
@@ -24,7 +27,7 @@ After the assets are created , I will start working on the code in Unity. I will
 
 Once this system is working correctly, I will start working on the audio visual system. This system will randomly change things such as color and terrain shifting. 
 
-If I have time in the end, I will try to add some extra flare such as a title screen and character chahging. 
+If I have time in the end, I will try to add some extra flare such as a title screen and character changing. 
 
 
 
