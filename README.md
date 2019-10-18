@@ -29,7 +29,9 @@ Once this system is working correctly, I will start working on the audio visual 
 
 If I have time in the end, I will try to add some extra flare such as a title screen and character changing. 
 
+### Starter Project
 
+In this repo I've included a small starter project based around my assignment , so far the player can control the characters movement and i've made a small start on the landscape generation code, the code runs through a for loop and instantiates an array of prefabs that I give to it.
 
 
 
